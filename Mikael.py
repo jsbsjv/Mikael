@@ -12,7 +12,7 @@ Group: Termux Android Hackers
 telegram: https://t.me/WWEEHHHH
 Ver: 2.0
 ----
-لاها كب يف هادا ليئاكيم صاصتخا هادا تيبثت رهشا تاودا قارته جمربملا ريغ لؤسم نع ءوس مادختسا هادلاا
+
 ----
 ==========================================
 00. Turn your Android into Hacking Machine.
