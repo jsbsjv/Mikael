@@ -3,12 +3,10 @@ import os
 def menu():
 
     print(""" 
-    _    _       _                     _     _       / \  | |  ___| |__   __ _ _ __ __ _| |__ (_)
-  / _ \ | | / __| '_ \ / _` | '__/ _` | '_ \| |    / ___ \| | \__ \ | | | (_| | | | (_| | |_) | |
-/_/   \_\_| |___/_| |_|\__,_|_|  \__,_|_.__/|_|
+
 ========================================
-Created By sadamalsharabi
-Group: Termux Android Hackers
+Created By Mikael
+Group: black hat hacker
 telegram: https://t.me/WWEEHHHH
 Ver: 2.0
 ----
