@@ -1,4 +1,4 @@
-# sadamalsharabi
+#المبرمج ميكائيل
 Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 
 All tools helps you in the installation of automatic tools that are useful for termux
@@ -9,13 +9,13 @@ All tools helps you in the installation of automatic tools that are useful for t
 
 > pkg install python
 
-> git clone https://github.com/sadamshr3be/alsharabi-tools
+> git clone https://github.com/jsbsjv/Mikael.git
 
-> cd alsharabi-tools
+> cd Mikael
 
-> chmod +x alsharabi-tools.py
+> chmod +x Mikael.py
 
-> python alsharabi-tools.py
+> python Mikael.py
 
 
 
